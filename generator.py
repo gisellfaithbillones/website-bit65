@@ -31,6 +31,6 @@ with open('template.html', 'r') as file:
 
 
 # Open the file for writing
-with open('output.html', 'w') as file:
+with open('index.html', 'w') as file:
     # Write the new data to the file
     file.write(data)
